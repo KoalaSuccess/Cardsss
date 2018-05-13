@@ -1,5 +1,5 @@
 [
-    - {
+    {
         BRAND: "Yu-Gi-Oh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Dark Illusion",
@@ -10,7 +10,7 @@
         DESC: "The Dark Illusion is a Booster Pack in the Yu-Gi-Oh! Official Card Game (OCG) and Yu-Gi-Oh! Trading Card Game (TCG). It is the ninth set in the OCG's 9th series, following Shining Victories, and followed by Invasion: Vengeance.",
         SKU: "YUG-01"
     },
-    - {
+    {
         BRAND: "Yu-Gi-Oh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Flames of Destruction",
@@ -21,7 +21,7 @@
         DESC: "Flames of Destruction closes out the first Dueling season of the Yu-Gi-Oh! VRAINS era with a bang! This 100-card booster set will shake things up with new cards for established Deck themes, a brand-new Link Monster theme that can be played as its own Deck or spliced into existing strategies, the return of the Elemental Lords, and more!",
         SKU: "YUG-02"
     },
-    - {
+    {
         BRAND: "Yu-Gi-Oh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh High-Speed Riders",
@@ -32,7 +32,7 @@
         DESC: "The High-Speed Riders special booster set contains brand new Synchro cards and cards inspired by the Yu-Gi-Oh! 5D's era, plus a great selection of other cards to round out a Duelist's Deck-building efforts! Dash into battle with brand new cards and popular cards that'll make your opponents' heads spin!",
         SKU: "YUG-03"
     },
-    - {
+    {
         BRAND: "Yu-Gi-Oh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Photon Shockwave",
@@ -43,7 +43,7 @@
         DESC: "Prepare your Deck for galactic devastation! Photon Shockwave is heading to Earth at the speed of light. And it’s going to blast apart the Dueling world when it gets here! Packed with 100 new cards for your Deck, Photon Shockwave will unleash incredible energies that have been building up since the dawn of creation. Brace for impact!",
         SKU: "YUG-04"
     },
-    - {
+    {
         BRAND: "Yu-Gi-Oh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Shining Victories",
@@ -55,7 +55,7 @@
         SKU: "YUG-05"
         
     },
-    - {
+    {
         BRAND: "Pokemon",
         COSTPR: "39.99",
         GRAPHNAME: "Pokemon Fates Collide",
@@ -66,7 +66,7 @@
         DESC: "Mega Alakazam-EX sees the future—and shapes it to unify two worlds! The Legendary Pokémon Zygarde arrives in many different Formes to bring order, together with Lugia BREAK, Mega Altaria-EX, and Umbreon-EX. Fates are sealed, and two Pokémon worlds join together in the Pokémon TCG: XY—Fates Collide expansion!",
         SKU: "POK-01"
     },
-    - {
+    {
         BRAND: "Pokemon",
         COSTPR: "39.99",
         GRAPHNAME: "Pokemon Forbidden Light",
@@ -77,7 +77,7 @@
         DESC: "Necrozma continues to take the Pokémon world by surprise in the Pokémon TCG: Sun & Moon—Forbidden Light expansion! The fierce and mysterious Legendary Pokémon has taken on a new form as Ultra Necrozma-GX, and other Pokémon gather to welcome this new light...or to resist it.",
         SKU: "POK-02"
     },
-    - {
+    {
         BRAND: "Pokemon",
         COSTPR: "39.99",
         GRAPHNAME: "Pokemon Primal Clash",
@@ -88,7 +88,7 @@
         DESC: "Ancient rivals awaken in the Pokémon TCG: XY—Primal Clash expansion! After centuries asleep, the deep power of Primal Groudon-EX erupts from the land as Primal Kyogre-EX crashes in from the sea, riding titanic waves into battle! ",
         SKU: "POK-03"
     },
-    - {
+    {
         BRAND: "Pokemon",
         COSTPR: "39.99",
         GRAPHNAME: "Pokemon Roaring Skies",
@@ -99,7 +99,7 @@
         DESC: "Ride the winds of battle with the Pokémon TCG: XY—Roaring Skies expansion! Ascend to the clouds and soar to victory with over 100 new cards, including 4 new Mega Evolution Pokémon and 7 other new Pokémon-EX.",
         SKU: "POK-04"
     },
-    - {
+    {
         BRAND: "Pokemon",
         COSTPR: "39.99",
         GRAPHNAME: "Pokemon Sun and Moon",
@@ -110,7 +110,7 @@
         DESC: "The battles heat up with Pokémon from the tropical Alola region in the Pokémon Trading Card Game: Sun & Moon expansion. Start your journey with Rowlet, Litten, and Popplio, then seek out the Legendary Pokémon Solgaleo-GX and Lunala-GX to witness the awesome power of a new kind of Pokémon: each Pokémon-GX brings an attack so devastating that you can use only one of them per game. ",
         SKU: "POK-05"
     },
-    - {
+    {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
         GRAPHNAME: "Magic Gathering Battle for Zendikar",
@@ -121,7 +121,7 @@
         DESC: "Certain packs of the set will include a very rare version of one of the most iconic lands in Magic's history. Called Zendikar Expeditions, these are both premium foil and full-art! They are printed in English only, but can be opened in packs of all languages. There are 25 different lands that can be found in Battle for Zendikar packs, and you can expect to open one only a little more frequently than a premium foil Battle for Zendikar mythic rare.",
         SKU: "MGC-01"
     },
-        - {
+    {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
         GRAPHNAME: "Magic Gathering Dark Ascension",
@@ -132,7 +132,7 @@
         DESC: "Dark Ascension, like its predecessor, is top-down designed with a horror theme.[3] The set contains 158 cards (64 Common, 44 Uncommon, 38 Rare, 12 Mythic) and includes randomly inserted premium versions of all cards in the set.",
         SKU: "MGC-02"
     },
-        - {
+    {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
         GRAPHNAME: "Magic Gathering Future Sight",
@@ -143,7 +143,7 @@
         DESC: "It’s Time to Make a Stand. Three more planeswalkers are dead or lost. How many more will allow themselves to be led to the slaughter? It’s not easy to convince godlike beings to risk their lives on the word of a man known for his lies. But the fate of the multiverse depends on it.",
         SKU: "MGC-03"
     },
-        - {
+    {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
         GRAPHNAME: "Magic Gathering Khans of Tarkir",
@@ -154,7 +154,7 @@
         DESC: "Khans of Tarkir is part of the Khans of Tarkir block, which is Large-Small-Large with a unique draft structure (the small set is drafted with both large sets, but the large sets are never drafted together) and a time traveling element. The draft structure is the first thing from which Khans of Tarkir set was built.",
         SKU: "MGC-04"
     },
-        - {
+    {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
         GRAPHNAME: "Magic Gathering Rise of Eldrazi",
