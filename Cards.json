@@ -7,7 +7,7 @@
         PRODNAME: "Yugioh Dark Illusion Booster Box",
         QTYONBORDER: "10",
         QTYONHAND: "12",
-        DESC: "The Dark Illusion is a Booster Pack in the Yu-Gi-Oh! Official Card Game (OCG) and Yu-Gi-Oh! Trading Card Game (TCG). It is the ninth set in the OCG's 9th series, following Shining Victories, and followed by Invasion: Vengeance.",
+        DESC: "The Dark Illusion is a Booster Pack in the Yu-Gi-Oh! Official Card Game (OCG) and Yu-Gi-Oh! Trading Card Game (TCG).",
         SKU: "YUG-01"
     },
     {
@@ -18,7 +18,7 @@
         PRODNAME: "Yugioh Flames of Destruction Booster Box",
         QTYONBORDER: "3",
         QTYONHAND: "22",
-        DESC: "Flames of Destruction closes out the first Dueling season of the Yu-Gi-Oh! VRAINS era with a bang! This 100-card booster set will shake things up with new cards for established Deck themes, a brand-new Link Monster theme that can be played as its own Deck or spliced into existing strategies, the return of the Elemental Lords, and more!",
+        DESC: "Flames of Destruction closes out the first Dueling season of the Yu-Gi-Oh! VRAINS era with a bang!",
         SKU: "YUG-02"
     },
     {
@@ -29,7 +29,7 @@
         PRODNAME: "Yugioh High-Speed Riders Booster Box",
         QTYONBORDER: "0",
         QTYONHAND: "15",
-        DESC: "The High-Speed Riders special booster set contains brand new Synchro cards and cards inspired by the Yu-Gi-Oh! 5D's era, plus a great selection of other cards to round out a Duelist's Deck-building efforts! Dash into battle with brand new cards and popular cards that'll make your opponents' heads spin!",
+        DESC: "The High-Speed Riders special booster set contains brand new Synchro cards and cards inspired by the Yu-Gi-Oh! 5D's era.",
         SKU: "YUG-03"
     },
     {
@@ -40,7 +40,7 @@
         PRODNAME: "Yugioh Photon Shockwave Booster Box",
         QTYONBORDER: "0",
         QTYONHAND: "22",
-        DESC: "Prepare your Deck for galactic devastation! Photon Shockwave is heading to Earth at the speed of light. And it’s going to blast apart the Dueling world when it gets here! Packed with 100 new cards for your Deck, Photon Shockwave will unleash incredible energies that have been building up since the dawn of creation. Brace for impact!",
+        DESC: "Prepare your Deck for galactic devastation! Photon Shockwave is heading to Earth at the speed of light.",
         SKU: "YUG-04"
     },
     {
@@ -51,7 +51,7 @@
         PRODNAME: "Yugioh Shining Victories Booster Box",
         QTYONBORDER: "20",
         QTYONHAND: "1",
-        DESC: "The saga of the Blue-Eyes White Dragon continues in the Yu-Gi-Oh! TRADING CARD GAME’s latest booster set, Shining Victories! This brand-new core booster marks the return of Blue-Eyes White Dragon and a plethora of specially crafted Blue-Eyes monsters and support cards to help crush non-believers of Kaiba!",
+        DESC: "The saga of the Blue-Eyes White Dragon continues in the Yu-Gi-Oh! TRADING CARD GAME’s latest booster set, Shining Victories!",
         SKU: "YUG-05"
         
     },
@@ -63,7 +63,7 @@
         PRODNAME: "Pokemon Fates Collide Booster Box",
         QTYONBORDER: "6",
         QTYONHAND: "20",
-        DESC: "Mega Alakazam-EX sees the future—and shapes it to unify two worlds! The Legendary Pokémon Zygarde arrives in many different Formes to bring order, together with Lugia BREAK, Mega Altaria-EX, and Umbreon-EX. Fates are sealed, and two Pokémon worlds join together in the Pokémon TCG: XY—Fates Collide expansion!",
+        DESC: "Mega Alakazam-EX sees the future—and shapes it to unify two worlds! The Legendary Pokémon Zygarde arrives in many different Formes to bring order.",
         SKU: "POK-01"
     },
     {
@@ -74,7 +74,7 @@
         PRODNAME: "Pokemon Forbidden Light Booster Box",
         QTYONBORDER: "0",
         QTYONHAND: "12",
-        DESC: "Necrozma continues to take the Pokémon world by surprise in the Pokémon TCG: Sun & Moon—Forbidden Light expansion! The fierce and mysterious Legendary Pokémon has taken on a new form as Ultra Necrozma-GX, and other Pokémon gather to welcome this new light...or to resist it.",
+        DESC: "Necrozma continues to take the Pokémon world by surprise in the Pokémon TCG: Sun & Moon—Forbidden Light expansion.",
         SKU: "POK-02"
     },
     {
@@ -85,7 +85,7 @@
         PRODNAME: "Pokemon Primal Clash Booster Box",
         QTYONBORDER: "1",
         QTYONHAND: "13",
-        DESC: "Ancient rivals awaken in the Pokémon TCG: XY—Primal Clash expansion! After centuries asleep, the deep power of Primal Groudon-EX erupts from the land as Primal Kyogre-EX crashes in from the sea, riding titanic waves into battle! ",
+        DESC: "Ancient rivals awaken in the Pokémon TCG: XY—Primal Clash expansion!",
         SKU: "POK-03"
     },
     {
@@ -96,7 +96,7 @@
         PRODNAME: "Pokemon Roaring Skies Booster Box",
         QTYONBORDER: "0",
         QTYONHAND: "2",
-        DESC: "Ride the winds of battle with the Pokémon TCG: XY—Roaring Skies expansion! Ascend to the clouds and soar to victory with over 100 new cards, including 4 new Mega Evolution Pokémon and 7 other new Pokémon-EX.",
+        DESC: "Ride the winds of battle with the Pokémon TCG: XY—Roaring Skies expansion.",
         SKU: "POK-04"
     },
     {
@@ -107,7 +107,7 @@
         PRODNAME: "Pokemon Sun and Moon Booster Box",
         QTYONBORDER: "2",
         QTYONHAND: "20",
-        DESC: "The battles heat up with Pokémon from the tropical Alola region in the Pokémon Trading Card Game: Sun & Moon expansion. Start your journey with Rowlet, Litten, and Popplio, then seek out the Legendary Pokémon Solgaleo-GX and Lunala-GX to witness the awesome power of a new kind of Pokémon: each Pokémon-GX brings an attack so devastating that you can use only one of them per game. ",
+        DESC: "The battles heat up with Pokémon from the tropical Alola region in the Pokémon Trading Card Game: Sun & Moon expansion.",
         SKU: "POK-05"
     },
     {
@@ -118,7 +118,7 @@
         PRODNAME: "Magic Gathering Battle for Zendikar Booster Box",
         QTYONBORDER: "10",
         QTYONHAND: "12",
-        DESC: "Certain packs of the set will include a very rare version of one of the most iconic lands in Magic's history. Called Zendikar Expeditions, these are both premium foil and full-art! They are printed in English only, but can be opened in packs of all languages. There are 25 different lands that can be found in Battle for Zendikar packs, and you can expect to open one only a little more frequently than a premium foil Battle for Zendikar mythic rare.",
+        DESC: "Certain packs of the set will include a very rare version of one of the most iconic lands in Magic's history.",
         SKU: "MGC-01"
     },
     {
@@ -129,7 +129,7 @@
         PRODNAME: "Magic Gathering Dark Ascension Booster Box",
         QTYONBORDER: "2",
         QTYONHAND: "12",
-        DESC: "Dark Ascension, like its predecessor, is top-down designed with a horror theme.[3] The set contains 158 cards (64 Common, 44 Uncommon, 38 Rare, 12 Mythic) and includes randomly inserted premium versions of all cards in the set.",
+        DESC: "Dark Ascension, like its predecessor, is top-down designed with a horror theme.",
         SKU: "MGC-02"
     },
     {
@@ -140,7 +140,7 @@
         PRODNAME: "Magic Gathering Future Sight Booster Box",
         QTYONBORDER: "5",
         QTYONHAND: "10",
-        DESC: "It’s Time to Make a Stand. Three more planeswalkers are dead or lost. How many more will allow themselves to be led to the slaughter? It’s not easy to convince godlike beings to risk their lives on the word of a man known for his lies. But the fate of the multiverse depends on it.",
+        DESC: "It’s Time to Make a Stand. Three more planeswalkers are dead or lost.",
         SKU: "MGC-03"
     },
     {
@@ -151,7 +151,7 @@
         PRODNAME: "Magic Gathering Khans of Tarkir Booster Box",
         QTYONBORDER: "3",
         QTYONHAND: "12",
-        DESC: "Khans of Tarkir is part of the Khans of Tarkir block, which is Large-Small-Large with a unique draft structure (the small set is drafted with both large sets, but the large sets are never drafted together) and a time traveling element. The draft structure is the first thing from which Khans of Tarkir set was built.",
+        DESC: "Khans of Tarkir is part of the Khans of Tarkir block, which is Large-Small-Large with a unique draft structure.",
         SKU: "MGC-04"
     },
     {
@@ -162,7 +162,7 @@
         PRODNAME: "Magic Gathering Rise of Eldrazi Booster Box",
         QTYONBORDER: "9",
         QTYONHAND: "11",
-        DESC: "This set features 248 black-bordered cards and marks the debut of colorless non-artifact creatures, instants, and sorceries, which can complement almost any deck.",
+        DESC: "This set features 248 black-bordered cards and marks the debut of colorless non-artifact creatures.",
         SKU: "MGC-05"
         
     }
