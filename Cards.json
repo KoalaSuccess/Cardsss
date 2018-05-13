@@ -7,8 +7,8 @@
         PRODNAME: "Yugioh Dark Illusion Booster Box",
         QTYONBORDER: "10",
         QTYONHAND: "12",
-        DESC: "The Dark Illusion is a Booster Pack in the YuGiOh! Official Card Game (OCG) and Yu-Gi-Oh! Trading Card Game (TCG).",
-        SKU: "YUG-01"
+        DESC: "The Dark Illusion is a Booster Pack in the YuGiOh! Official Card Game (OCG) and YuGiOh! Trading Card Game (TCG).",
+        SKU: "YUG01"
     },
     {
         BRAND: "YuGiOh!",
@@ -19,7 +19,7 @@
         QTYONBORDER: "3",
         QTYONHAND: "22",
         DESC: "Flames of Destruction closes out the first Dueling season of the YuGiOh! VRAINS era with a bang!",
-        SKU: "YUG-02"
+        SKU: "YUG02"
     },
     {
         BRAND: "YuGiOh!",
@@ -30,7 +30,7 @@
         QTYONBORDER: "0",
         QTYONHAND: "15",
         DESC: "The High Speed Riders special booster set contains brand new Synchro cards and cards inspired by the YuGiOh! 5D's era.",
-        SKU: "YUG-03"
+        SKU: "YUG03"
     },
     {
         BRAND: "YuGiOh!",
@@ -41,7 +41,7 @@
         QTYONBORDER: "0",
         QTYONHAND: "22",
         DESC: "Prepare your Deck for galactic devastation! Photon Shockwave is heading to Earth at the speed of light.",
-        SKU: "YUG-04"
+        SKU: "YUG04"
     },
     {
         BRAND: "YuGiOh!",
@@ -52,7 +52,7 @@
         QTYONBORDER: "20",
         QTYONHAND: "1",
         DESC: "The saga of the BlueEyes White Dragon continues in the YuGiOh! TRADING CARD GAME’s latest booster set, Shining Victories!",
-        SKU: "YUG-05"
+        SKU: "YUG05"
         
     },
     {
@@ -64,7 +64,7 @@
         QTYONBORDER: "6",
         QTYONHAND: "20",
         DESC: "Mega AlakazamEX sees the future and shapes it to unify two worlds! The Legendary Pokémon Zygarde arrives in many different Formes to bring order.",
-        SKU: "POK-01"
+        SKU: "POK01"
     },
     {
         BRAND: "Pokemon",
@@ -75,7 +75,7 @@
         QTYONBORDER: "0",
         QTYONHAND: "12",
         DESC: "Necrozma continues to take the Pokemon world by surprise in the Pokémon TCG: Sun & Moon Forbidden Light expansion.",
-        SKU: "POK-02"
+        SKU: "POK02"
     },
     {
         BRAND: "Pokemon",
@@ -86,7 +86,7 @@
         QTYONBORDER: "1",
         QTYONHAND: "13",
         DESC: "Ancient rivals awaken in the Pokemon TCG XYPrimal Clash expansion!",
-        SKU: "POK-03"
+        SKU: "POK03"
     },
     {
         BRAND: "Pokemon",
@@ -97,7 +97,7 @@
         QTYONBORDER: "0",
         QTYONHAND: "2",
         DESC: "Ride the winds of battle with the Pokemon TCG XYRoaring Skies expansion.",
-        SKU: "POK-04"
+        SKU: "POK04"
     },
     {
         BRAND: "Pokemon",
@@ -108,7 +108,7 @@
         QTYONBORDER: "2",
         QTYONHAND: "20",
         DESC: "The battles heat up with Pokemon from the tropical Alola region in the Pokemon Trading Card Game Sun & Moon expansion.",
-        SKU: "POK-05"
+        SKU: "POK05"
     },
     {
         BRAND: "Magic the Gathering",
@@ -119,7 +119,7 @@
         QTYONBORDER: "10",
         QTYONHAND: "12",
         DESC: "Certain packs of the set will include a very rare version of one of the most iconic lands in Magic's history.",
-        SKU: "MGC-01"
+        SKU: "MGC01"
     },
     {
         BRAND: "Magic the Gathering",
@@ -130,7 +130,7 @@
         QTYONBORDER: "2",
         QTYONHAND: "12",
         DESC: "Dark Ascension, like its predecessor, is topdown designed with a horror theme.",
-        SKU: "MGC-02"
+        SKU: "MGC02"
     },
     {
         BRAND: "Magic the Gathering",
@@ -141,7 +141,7 @@
         QTYONBORDER: "5",
         QTYONHAND: "10",
         DESC: "It’s Time to Make a Stand. Three more planeswalkers are dead or lost.",
-        SKU: "MGC-03"
+        SKU: "MGC03"
     },
     {
         BRAND: "Magic the Gathering",
@@ -152,7 +152,7 @@
         QTYONBORDER: "3",
         QTYONHAND: "12",
         DESC: "Khans of Tarkir is part of the Khans of Tarkir block, which is LargeSmallLarge with a unique draft structure.",
-        SKU: "MGC-04"
+        SKU: "MGC04"
     },
     {
         BRAND: "Magic the Gathering",
@@ -163,7 +163,7 @@
         QTYONBORDER: "9",
         QTYONHAND: "11",
         DESC: "This set features 248 black bordered cards and marks the debut of colorless non artifact creatures.",
-        SKU: "MGC-05"
+        SKU: "MGC05"
         
     }
 ]
