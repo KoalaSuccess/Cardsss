@@ -2,7 +2,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh Dark Illusion",
+        GRAPHNAME: "Yugioh DIL",
         MSRP: "74.99",
         PRODNAME: "Yugioh Dark Illusion Booster Box",
         QTYONBORDER: "10",
@@ -13,7 +13,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh Flames of Destruction",
+        GRAPHNAME: "Yugioh FOD",
         MSRP: "74.99",
         PRODNAME: "Yugioh Flames of Destruction Booster Box",
         QTYONBORDER: "3",
@@ -24,7 +24,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh High Speed Riders",
+        GRAPHNAME: "Yugioh HSR",
         MSRP: "74.99",
         PRODNAME: "Yugioh High Speed Riders Booster Box",
         QTYONBORDER: "0",
@@ -35,7 +35,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh Photon Shockwave",
+        GRAPHNAME: "Yugioh PHS",
         MSRP: "74.99",
         PRODNAME: "Yugioh Photon Shockwave Booster Box",
         QTYONBORDER: "0",
@@ -46,7 +46,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh Shining Victories",
+        GRAPHNAME: "Yugioh SHV",
         MSRP: "74.99",
         PRODNAME: "Yugioh Shining Victories Booster Box",
         QTYONBORDER: "20",
@@ -58,7 +58,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon Fates Collide",
+        GRAPHNAME: "Pokemon FCL",
         MSRP: "79.99",
         PRODNAME: "Pokemon Fates Collide Booster Box",
         QTYONBORDER: "6",
@@ -69,7 +69,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon Forbidden Light",
+        GRAPHNAME: "Pokemon FOL",
         MSRP: "79.99",
         PRODNAME: "Pokemon Forbidden Light Booster Box",
         QTYONBORDER: "0",
@@ -80,7 +80,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon Primal Clash",
+        GRAPHNAME: "Pokemon PCL",
         MSRP: "79.99",
         PRODNAME: "Pokemon Primal Clash Booster Box",
         QTYONBORDER: "1",
@@ -91,7 +91,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon Roaring Skies",
+        GRAPHNAME: "Pokemon RSK",
         MSRP: "79.99",
         PRODNAME: "Pokemon Roaring Skies Booster Box",
         QTYONBORDER: "0",
@@ -102,7 +102,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon Sun and Moon",
+        GRAPHNAME: "Pokemon SAM",
         MSRP: "79.99",
         PRODNAME: "Pokemon Sun and Moon Booster Box",
         QTYONBORDER: "2",
@@ -113,7 +113,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "Magic Gathering Battle for Zendikar",
+        GRAPHNAME: "MTG BFZ",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Battle for Zendikar Booster Box",
         QTYONBORDER: "10",
@@ -124,7 +124,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "Magic Gathering Dark Ascension",
+        GRAPHNAME: "MTG DAS",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Dark Ascension Booster Box",
         QTYONBORDER: "2",
@@ -135,7 +135,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "Magic Gathering Future Sight",
+        GRAPHNAME: "MTG GFS",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Future Sight Booster Box",
         QTYONBORDER: "5",
@@ -146,7 +146,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "Magic Gathering Khans of Tarkir",
+        GRAPHNAME: "MTG KOT",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Khans of Tarkir Booster Box",
         QTYONBORDER: "3",
@@ -157,7 +157,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "Magic Gathering Rise of Eldrazi",
+        GRAPHNAME: "MTG ROE",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Rise of Eldrazi Booster Box",
         QTYONBORDER: "9",
