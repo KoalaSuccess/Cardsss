@@ -1,6 +1,6 @@
 [
     {
-        BRAND: "Yu-Gi-Oh!",
+        BRAND: "YuGiOh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Dark Illusion",
         MSRP: "74.99",
@@ -11,7 +11,7 @@
         SKU: "YUG-01"
     },
     {
-        BRAND: "Yu-Gi-Oh!",
+        BRAND: "YuGiOh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Flames of Destruction",
         MSRP: "74.99",
@@ -22,7 +22,7 @@
         SKU: "YUG-02"
     },
     {
-        BRAND: "Yu-Gi-Oh!",
+        BRAND: "YuGiOh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh High-Speed Riders",
         MSRP: "74.99",
@@ -33,7 +33,7 @@
         SKU: "YUG-03"
     },
     {
-        BRAND: "Yu-Gi-Oh!",
+        BRAND: "YuGiOh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Photon Shockwave",
         MSRP: "74.99",
@@ -44,7 +44,7 @@
         SKU: "YUG-04"
     },
     {
-        BRAND: "Yu-Gi-Oh!",
+        BRAND: "YuGiOh!",
         COSTPR: "39.99",
         GRAPHNAME: "Yugioh Shining Victories",
         MSRP: "74.99",
