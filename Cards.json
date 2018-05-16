@@ -2,7 +2,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh DIL",
+        GRAPHNAME: "YGO-DIL.jpg",
         MSRP: "74.99",
         PRODNAME: "Yugioh Dark Illusion Booster Box",
         QTYONBORDER: "10",
@@ -13,7 +13,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh FOD",
+        GRAPHNAME: "YGO-FOD.jpg",
         MSRP: "74.99",
         PRODNAME: "Yugioh Flames of Destruction Booster Box",
         QTYONBORDER: "3",
@@ -24,7 +24,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh HSR",
+        GRAPHNAME: "YGO-HSR.jpg",
         MSRP: "74.99",
         PRODNAME: "Yugioh High Speed Riders Booster Box",
         QTYONBORDER: "0",
@@ -35,7 +35,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh PHS",
+        GRAPHNAME: "YGO-PHS.jpg",
         MSRP: "74.99",
         PRODNAME: "Yugioh Photon Shockwave Booster Box",
         QTYONBORDER: "0",
@@ -46,7 +46,7 @@
     {
         BRAND: "YuGiOh!",
         COSTPR: "39.99",
-        GRAPHNAME: "Yugioh SHV",
+        GRAPHNAME: "YGO-SHV.jpg",
         MSRP: "74.99",
         PRODNAME: "Yugioh Shining Victories Booster Box",
         QTYONBORDER: "20",
@@ -58,7 +58,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon FCL",
+        GRAPHNAME: "POK-FCO.jpg",
         MSRP: "79.99",
         PRODNAME: "Pokemon Fates Collide Booster Box",
         QTYONBORDER: "6",
@@ -69,7 +69,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon FOL",
+        GRAPHNAME: "POK-FOL.jpg",
         MSRP: "79.99",
         PRODNAME: "Pokemon Forbidden Light Booster Box",
         QTYONBORDER: "0",
@@ -80,7 +80,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon PCL",
+        GRAPHNAME: "POK-PCL.jpg",
         MSRP: "79.99",
         PRODNAME: "Pokemon Primal Clash Booster Box",
         QTYONBORDER: "1",
@@ -91,7 +91,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon RSK",
+        GRAPHNAME: "POK-RSK.jpg",
         MSRP: "79.99",
         PRODNAME: "Pokemon Roaring Skies Booster Box",
         QTYONBORDER: "0",
@@ -102,7 +102,7 @@
     {
         BRAND: "Pokemon",
         COSTPR: "39.99",
-        GRAPHNAME: "Pokemon SAM",
+        GRAPHNAME: "POK-SAM.jpg",
         MSRP: "79.99",
         PRODNAME: "Pokemon Sun and Moon Booster Box",
         QTYONBORDER: "2",
@@ -113,7 +113,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "MTG BFZ",
+        GRAPHNAME: "MGC-BZE.jpg",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Battle for Zendikar Booster Box",
         QTYONBORDER: "10",
@@ -124,7 +124,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "MTG DAS",
+        GRAPHNAME: "MGC-DKA.jpg",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Dark Ascension Booster Box",
         QTYONBORDER: "2",
@@ -135,7 +135,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "MTG GFS",
+        GRAPHNAME: "MGC-FUS.jpg",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Future Sight Booster Box",
         QTYONBORDER: "5",
@@ -146,7 +146,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "MTG KOT",
+        GRAPHNAME: "MGC-KHT.jpg",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Khans of Tarkir Booster Box",
         QTYONBORDER: "3",
@@ -157,7 +157,7 @@
     {
         BRAND: "Magic the Gathering",
         COSTPR: "42.99",
-        GRAPHNAME: "MTG ROE",
+        GRAPHNAME: "MGC-REL.png",
         MSRP: "79.99",
         PRODNAME: "Magic Gathering Rise of Eldrazi Booster Box",
         QTYONBORDER: "9",
